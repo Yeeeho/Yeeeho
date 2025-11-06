@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Yeeeho
-- 👀 I’m interested in just looking around
-- 🌱 I’m currently learning to live
-- 💞️ I’m looking to collaborate on alone
-- 📫 You can reach me through github
+contact
+email: tjswlgh877@gmail.com
 
 <!---
 Yeeeho/Yeeeho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
